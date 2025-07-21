@@ -29,16 +29,16 @@
 <ul style="list-style: none; font-size: 17px; line-height: 1.7; text-align: center;">
   <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
   <li>🎮 <b>Favorite Games:</b> 
-    <a href="https://hsr.hoyoverse.com/en-us/" target="_blank">
+    <a href="https://hsr.hoyoverse.com/en-us/">
       <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/> 
     </a>
-    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home" target="_blank">
+    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home">
       <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/>       
     </a>
-    <a href="https://wutheringwaves.kurogames.com/en" target="_blank">
+    <a href="https://wutheringwaves.kurogames.com/en">
       <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/>
     </a>
-    <a href="https://yo-star.com/en-us" target="_blank">
+    <a href="https://yo-star.com/en-us">
       <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
     </a>
   </li>
