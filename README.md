@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/iZkOFtSfWUoAAAAC/eula-genshin-impact.gif" width="1000" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
+  <img src="https://media1.tenor.com/m/iZkOFtSfWUoAAAAC/eula-genshin-impact.gif" width="500" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
 </p>
 
 <div align="center">
