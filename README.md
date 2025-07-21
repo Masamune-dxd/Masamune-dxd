@@ -68,5 +68,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a7bd5,00d2ff&height=120&section=footer&text=Masamune&fontAlign=50&fontSize=40&fontColor=9B9B92&fontStyle=italic"/>
+  <img src="https://capsule-render.vercel.app/apitype=waving&height=200&color=gradient&text=Masamune&section=footer&fontColor=9999FF&fontSize=60&fontAlign=49&animation=twinkling&stroke=0000FF/>
 </div>
