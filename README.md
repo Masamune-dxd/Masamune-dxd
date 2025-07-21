@@ -48,5 +48,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c3483&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a7bd5,00d2ff&height=120&section=footer&text=Masamune&fontAlign=50&fontSize=40&fontColor=ffffff&fontStyle=italic"/>
 </div>
