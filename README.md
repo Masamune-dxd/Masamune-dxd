@@ -54,7 +54,7 @@
     <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="28"/> 
   </a>
   <a href="https://x.com/keikimasamune">
-    <img src="https://support.discord.com/hc/user_images/PRywUXcqg0v5DD6s7C3LyQ.png" width="28"/>
+    <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?semt=ais_hybrid&w=740" width="28"/>
   </a>
   <a href="https://discord.com/users/595888512029687828/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.png " width="28"/>
