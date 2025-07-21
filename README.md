@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love reading/watching cheating genre.
   
-![makeine-ntr](https://github.com/user-attachments/assets/d5be960b-0c9c-4c1d-9136-e619ae4d0c76)
+   ![makeine-ntr](https://github.com/user-attachments/assets/d5be960b-0c9c-4c1d-9136-e619ae4d0c76)
