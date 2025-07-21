@@ -21,7 +21,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #6c3483;">👋 Hi, I'm <span style="color:#1abc9c;">Masamune</span>!</h1>
 
 <p align="center" style="font-size: 18px;">
-  <b>✨ Cosplay enthusiast | 🎮 Gamer | 👨‍💻 Aspiring developer</b>
+  <b>✨ Cosplay enthusiast | 🎮 Gamer | 👨‍💻 Aspiring developer |❄️ Eula Simp </b> 
 </p>
 
 <ul style="list-style: none; font-size: 17px; line-height: 1.7; text-align: center;">
