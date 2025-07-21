@@ -1,5 +1,3 @@
-<!-- Profile README - Masamune -->
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d5be960b-0c9c-4c1d-9136-e619ae4d0c76" width="300" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
 </p>
@@ -29,16 +27,16 @@
 <ul style="list-style: none; font-size: 17px; line-height: 1.7; text-align: center;">
   <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
   <li>🎮 <b>Favorite Games:</b> 
-    <a href="https://hsr.hoyoverse.com/en-us/">
+    <a href="https://hsr.hoyoverse.com/en-us/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/>
     </a>
-    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home">
+    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/>
     </a>
-    <a href="https://wutheringwaves.kurogames.com/en">
+    <a href="https://wutheringwaves.kurogames.com/en" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/>
     </a>
-    <a href="https://yo-star.com/en-us">
+    <a href="https://yo-star.com/en-us" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
     </a>
   </li>
@@ -50,13 +48,13 @@
 
 
 <p align="center" style="font-size: 22px;">
-  <a href="https://www.instagram.com/masamune.silvermoon/">
+  <a href="https://www.instagram.com/masamune.silvermoon/" style="text-decoration: none;">
     <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="40"/> 
   </a>
-  <a href="https://x.com/keikimasamune">
+  <a href="https://x.com/keikimasamune" style="text-decoration: none;">
     <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?semt=ais_hybrid&w=740" width="40"/>
   </a>
-  <a href="https://discord.com/users/595888512029687828/">
+  <a href="https://discord.com/users/595888512029687828/" style="text-decoration: none;">
     <img src="https://img.freepik.com/premium-vector/modern-badge-discord-icon_578229-169.jpg" width="40"/>
   </a>
 </p>
