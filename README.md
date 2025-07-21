@@ -29,12 +29,18 @@
 <ul style="list-style: none; font-size: 17px; line-height: 1.7; text-align: center;">
   <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
   <li>🎮 <b>Favorite Games:</b> 
-    <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/> 
-    <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/> 
+    <a href="https://hsr.hoyoverse.com/en-us/" target="_blank">
+      <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/> 
+    </a>
+    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home" target="_blank">
+      <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/>       
+    </a>
     <a href="https://wutheringwaves.kurogames.com/en" target="_blank">
       <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/>
     </a>
-    <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
+    <a href="https://yo-star.com/en-us" target="_blank">
+      <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
+    </a>
   </li>
   <li>🌱 <b>Currently Learning:</b> C++, Java, HTML, CSS, JavaScript</li>
   <li>💞️ <b>Looking to Collaborate:</b> Software projects, game development, convention initiatives</li>
@@ -43,7 +49,7 @@
 </ul>
 
 <p align="center" style="font-size: 22px;">
-  <img src="https://em-content.zobj.net/source/telegram/386/star_2b50.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/video-game_1f3ae.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/magic-wand_1fa84.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/laptop_1f4bb.png" width="28"/>
+  <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/video-game_1f3ae.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/magic-wand_1fa84.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/laptop_1f4bb.png" width="28"/>
 </p>
 
 </td>
