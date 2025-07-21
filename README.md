@@ -26,9 +26,16 @@
   <b>✨ Cosplay enthusiast | 🎮 Gamer | 👨‍💻 Aspiring developer</b>
 </p>
 
-<ul align="center" style="list-style: none; font-size: 17px; line-height: 1.7;">
+<ul style="list-style: none; font-size: 17px; line-height: 1.7; text-align: center;">
   <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
-  <li>🎮 <b>Favorite Games:</b> <img src="https://img.shields.io/badge/HSR-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square"/> <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square"/></li>
+  <li>🎮 <b>Favorite Games:</b> 
+    <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/> 
+    <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/> 
+    <a href="https://wutheringwaves.kurogames.com/en" target="_blank">
+      <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/>
+    </a>
+    <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
+  </li>
   <li>🌱 <b>Currently Learning:</b> C++, Java, HTML, CSS, JavaScript</li>
   <li>💞️ <b>Looking to Collaborate:</b> Software projects, game development, convention initiatives</li>
   <li>📫 <b>Contact me:</b> Just send a message!</li>
