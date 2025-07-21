@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/oX-L3yz6nwsAAAAC/kanojo-ntr.gif" width="300" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
+  <img src="https://media.tenor.com/efS8UbSOX-YAAAAM/katana-anime.gif" width="300" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
 </p>
 
 <div align="center">
