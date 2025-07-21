@@ -1,7 +1,7 @@
 <!-- Profile README - Masamune -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5be960b-0c9c-4c1d-9136-e619ae4d0c76" width="200" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
+  <img src="https://github.com/user-attachments/assets/d5be960b-0c9c-4c1d-9136-e619ae4d0c76" width="300" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
 </p>
 
 <div align="center">
@@ -48,5 +48,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a7bd5,00d2ff&height=120&section=footer&text=Masamune&fontAlign=50&fontSize=40&fontColor=ffffff&fontStyle=italic"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3a7bd5,00d2ff&height=120&section=footer&text=Masamune&fontAlign=50&fontSize=40&fontColor=9B9B92&fontStyle=italic"/>
 </div>
