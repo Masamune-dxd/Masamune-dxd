@@ -30,16 +30,16 @@
   <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
   <li>🎮 <b>Favorite Games:</b> 
     <a href="https://hsr.hoyoverse.com/en-us/">
-      <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/> 
+    <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/>
     </a>
     <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home">
-      <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/>       
+    <img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/>
     </a>
     <a href="https://wutheringwaves.kurogames.com/en">
-      <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/>
+    <img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/>
     </a>
     <a href="https://yo-star.com/en-us">
-      <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
+    <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
     </a>
   </li>
   <li>🌱 <b>Currently Learning:</b> C++, Java, HTML, CSS, JavaScript</li>
@@ -47,6 +47,7 @@
   <li>📫 <b>Contact me:</b> Just send a message!</li>
   <li>⚡ <b>Fun Fact:</b> I love reading/watching <b>cheating genre</b> stories!</li>
 </ul>
+
 
 <p align="center" style="font-size: 22px;">
   <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/video-game_1f3ae.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/magic-wand_1fa84.png" width="28"/> <img src="https://em-content.zobj.net/source/telegram/386/laptop_1f4bb.png" width="28"/>
