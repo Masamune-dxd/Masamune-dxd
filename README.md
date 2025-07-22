@@ -2,6 +2,11 @@
   <img src="https://media1.tenor.com/m/iZkOFtSfWUoAAAAC/eula-genshin-impact.gif" width="500" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
 </p>
 
+<!-- Waving Frame Top -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&fontAlignY=0&stroke=28282B&fontColor=a7e7ff" alt="waving-frame-top" />
+</div>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Pronouns-He%2FHim-6c3483?style=flat-square" alt="Pronouns"/>
@@ -18,15 +23,15 @@
   <tr>
     <td>
 
-<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #6c3483;">👋 Hi, I'm <span style="color:#1abc9c;">Masamune</span>!</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color: #6c3483;">:wave: Hi, I'm <span style="color:#1abc9c;">Masamune</span>!</h1>
 
 <p align="center" style="font-size: 18px;">
-  <b>✨ Cosplay enthusiast | 🎮 Gamer | 👨‍💻 Aspiring developer |❄️ Eula Simp </b> 
+  <b>:sparkles: Cosplay enthusiast | :video_game: Gamer | :man_technologist: Aspiring developer |:snowflake: Eula Simp </b> 
 </p>
 
 <ul style="list-style: none; font-size: 17px; line-height: 1.7; text-align: center;">
-  <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
-  <li>🎮 <b>Favorite Games:</b> 
+  <li>:eyes: <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
+  <li>:video_game: <b>Favorite Games:</b> 
     <a href="https://hsr.hoyoverse.com/en-us/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/>
     </a>
@@ -40,10 +45,10 @@
     <img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/>
     </a>
   </li>
-  <li>🌱 <b>Currently Learning:</b> C++, Java, HTML, CSS, JavaScript</li>
+  <li>:seedling: <b>Currently Learning:</b> C++, Java, HTML, CSS, JavaScript</li>
   <li>💞️ <b>Looking to Collaborate:</b> Software projects, game development, convention initiatives</li>
-  <li>📫 <b>Contact me:</b> Just send a message!</li>
-  <li>⚡ <b>Fun Fact:</b> I love reading/watching <b>cheating genre</b> stories!</li>
+  <li>:mailbox: <b>Contact me:</b> Just send a message!</li>
+  <li>:zap: <b>Fun Fact:</b> I love reading/watching <b>cheating genre</b> stories!</li>
 </ul>
 
 
@@ -67,6 +72,7 @@
 
 <br/>
 
+<!-- Waving Frame Bottom (Footer style)-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&section=footer&fontAlignY=73&fontSize=60&stroke=28282B&fontColor=a7e7ff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&section=footer&fontAlignY=73&fontSize=60&stroke=28282B&fontColor=a7e7ff" alt="Waving-Frame-Bottom" />
 </div>
