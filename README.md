@@ -4,7 +4,7 @@
 
 <!-- Waving Frame Top -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&fontAlignY=0&stroke=28282B&fontColor=a7e7ff" alt="waving-frame-top" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&fontAlignY=30&fontSize=60&strokeWidth=2&stroke=72d7f0%20&fontColor=729af0"/>
 </div>
 
 <div align="center">
