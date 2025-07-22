@@ -74,5 +74,5 @@
 
 <!-- Waving Frame Bottom (Footer style)-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&section=footer&fontAlignY=73&fontSize=60&stroke=28282B&fontColor=a7e7ff" alt="Waving-Frame-Bottom" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&fontAlignY=80&fontSize=60&strokeWidth=2&stroke=72d7f0%20&fontColor=729af0&section=footer"/>
 </div>
