@@ -18,7 +18,7 @@
   <tr>
     <td>
 
-<h1 align="center" style="font-size: 2.6em;">👋 Hi, I'm <span style="color:#007bff;">Masamune</span>!</h1>
+<h1 align="center" style="font-size: 2.6em; color=#c2dbea;">👋 Hi, I'm Masamune!</h1>
 
 <p align="center" style="font-size: 1.4em;">
   ✨ Cosplay enthusiast&nbsp; | &nbsp;🎮 Gamer&nbsp; | &nbsp;👨‍💻 Aspiring developer&nbsp; | &nbsp;❄️ Eula Simp
