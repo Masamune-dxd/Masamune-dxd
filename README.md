@@ -61,7 +61,7 @@
     <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?semt=ais_hybrid&w=740" title="KeikiMasamune" width="40" alt="X"/>
   </a>
   <a href="https://discord.com/users/595888512029687828/">
-    <img src="https://pngimg.com/d/discord_PNG8.png" width="40" title="Masamune#2687" alt="Discord"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" width="40" title="Masamune#2687" alt="Discord"/>
   </a>
 </p>
 
