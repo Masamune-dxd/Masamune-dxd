@@ -26,17 +26,15 @@
   <b>✨ Cosplay enthusiast | 🎮 Gamer | 👨‍💻 Aspiring developer | ❄️ Eula Simp </b> 
 </p>
 
-<ul align="center" style="font-size: 17px; line-height: 1.7;">
-  <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions.</li>
-  <li>🎮 <b>Favorite Games:</b> 
+<p align="center" style="font-size: 17px; line-height: 1.7;">
+  👀 <b>Interests:</b> Creativity, community, and cosplay conventions.<br>
+  🎮 <b>Favorite Games:</b>
     <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/></a>
     <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/></a>
     <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/></a>
     <a href="https://yo-star.com/en-us"><img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/></a>
-  </li>
-</ul>
+</p>
 
-<!-- Learning Languages and Tools -->
 <h3 align="center">🚀 Learning Languages and Tools</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -48,11 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<ul align="center" style="font-size: 17px; line-height: 1.7;">
-  <li>🤝 <b>Looking to Collaborate:</b> Software projects, game development, convention initiatives</li>
-  <li>📫 <b>Contact me:</b> Just send a message!</li>
-  <li>⚡ <b>Fun Fact:</b> I love reading/watching <b>cheating genre</b> stories!</li>
-</ul>
+<p align="center" style="font-size: 17px; line-height: 1.7;">
+  🤝 <b>Looking to Collaborate:</b> Software projects, game development, convention initiatives<br>
+  📫 <b>Contact me:</b> Just send a message!<br>
+  ⚡ <b>Fun Fact:</b> I love reading/watching <b>cheating genre</b> stories!
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/masamune.silvermoon/">
