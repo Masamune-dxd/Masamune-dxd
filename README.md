@@ -29,10 +29,10 @@
 <p align="center" style="font-size: 17px; line-height: 1.7;">
   👀 <b>Interests:</b> Creativity, community, and cosplay conventions.<br>
   🎮 <b>Favorite Games:</b>
-    <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" title="Honkai: Star Rail" alt="Honkai: Star Rail"/></a>
-    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" title="Honkai Impact 3rd" alt="Honkai Impact 3rd"/></a>
-    <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" title="Wuthering Waves" alt="Wuthering Waves"/></a>
-    <a href="https://yo-star.com/en-us"><img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/></a>
+    <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" title="'Masamune' UID: 808596183" alt="Honkai: Star Rail"/></a>
+    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" title="'Masamune' UID: 18364431" alt="Honkai Impact 3rd"/></a>
+    <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" title="'Masamune' UID: 700746572" alt="Wuthering Waves"/></a>
+    <a href="https://yo-star.com/en-us"><img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" title="Azur Lane, Arknigths" alt="Yostar Games"/></a>
 </p>
 
 <h3 align="center">🚀 Learning Languages and Tools</h3>
