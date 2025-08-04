@@ -1,8 +1,3 @@
-<!--
-  Custom profile README for Masamune
-  Features: Centered content, larger text, removed unnecessary spans, organized as lists and tables for clarity and style.
--->
-
 <p align="center">
   <img src="https://media1.tenor.com/m/iZkOFtSfWUoAAAAC/eula-genshin-impact.gif" width="500" alt="Profile Banner" style="border-radius: 15px; border: 2px solid #6c3483;"/>
 </p>
@@ -23,26 +18,24 @@
   <tr>
     <td>
 
-<h1 align="center" style="font-size: 2.6em;">👋 Hi, I'm <b style="color:#007bff;">Masamune</b>!</h1>
+<h1 align="center" style="font-size: 2.6em;">👋 Hi, I'm <span style="color:#007bff;">Masamune</span>!</h1>
 
 <p align="center" style="font-size: 1.4em;">
   ✨ Cosplay enthusiast&nbsp; | &nbsp;🎮 Gamer&nbsp; | &nbsp;👨‍💻 Aspiring developer&nbsp; | &nbsp;❄️ Eula Simp
 </p>
 
-<ul align="center" style="list-style: none; font-size: 1.32em; line-height: 2; padding-left: 0;">
-  <li>👀 <b>Interests:</b> Creativity, community, and cosplay conventions</li>
-  <li>
+<div align="center" style="font-size: 1.32em; line-height: 2;">
+  <div>👀 <b>Interests:</b> Creativity, community, and cosplay conventions</div>
+  <div>
     🎮 <b>Favorite Games:</b>
-    <ul align="center" style="list-style: none; padding-left: 0;">
-      <li>
-        <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" title="'Masamune' UID: 808596183" alt="Honkai: Star Rail"/></a>
-        <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" title="'Masamune' UID: 18364431" alt="Honkai Impact 3rd"/></a>
-        <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" title="'Masamune' UID: 700746572" alt="Wuthering Waves"/></a>
-        <a href="https://yo-star.com/en-us"><img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" title="Azur Lane, Arknights" alt="Yostar Games"/></a>
-      </li>
-    </ul>
-  </li>
-</ul>
+    <span>
+      <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" title="'Masamune' UID: 808596183" alt="Honkai: Star Rail"/></a>
+      <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" title="'Masamune' UID: 18364431" alt="Honkai Impact 3rd"/></a>
+      <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" title="'Masamune' UID: 700746572" alt="Wuthering Waves"/></a>
+      <a href="https://yo-star.com/en-us"><img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" title="Azur Lane, Arknights" alt="Yostar Games"/></a>
+    </span>
+  </div>
+</div>
 
 <h3 align="center" style="font-size: 1.6em;">🚀 Learning Languages and Tools</h3>
 <div align="center">
@@ -96,5 +89,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&reversal=true&fontColor=A3B9D2&stroke=6F84A0&strokeWidth=2&fontAlignY=80&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&reversal=true&fontColor=A3B9D2&stroke=6F84A0&strokeWidth=2&fontAlignY=80&section=footer"/>
 </div>
