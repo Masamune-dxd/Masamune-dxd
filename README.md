@@ -29,9 +29,9 @@
 <p align="center" style="font-size: 17px; line-height: 1.7;">
   👀 <b>Interests:</b> Creativity, community, and cosplay conventions.<br>
   🎮 <b>Favorite Games:</b>
-    <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" alt="Honkai: Star Rail"/></a>
-    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" alt="Honkai Impact 3rd"/></a>
-    <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" alt="Wuthering Waves"/></a>
+    <a href="https://hsr.hoyoverse.com/en-us/"><img src="https://img.shields.io/badge/HSR-blue?style=flat-square" title="Honkai: Star Rail" alt="Honkai: Star Rail"/></a>
+    <a href="https://honkaiimpact3.hoyoverse.com/asia/en-us/home"><img src="https://img.shields.io/badge/Hi3-purple?style=flat-square" title="Honkai Impact 3rd" alt="Honkai Impact 3rd"/></a>
+    <a href="https://wutheringwaves.kurogames.com/en"><img src="https://img.shields.io/badge/Wuthering%20Waves-green?style=flat-square" title="Wuthering Waves" alt="Wuthering Waves"/></a>
     <a href="https://yo-star.com/en-us"><img src="https://img.shields.io/badge/Yostar-orange?style=flat-square" alt="Yostar Games"/></a>
 </p>
 
@@ -55,13 +55,13 @@
 
 <p align="center">
   <a href="https://www.instagram.com/masamune.silvermoon/">
-    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="40" alt="Instagram"/>
+    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/14/instagram-6338393_1280.png" width="40" title="masamune.silvermoon" alt="Instagram"/>
   </a>
   <a href="https://x.com/keikimasamune">
-    <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?semt=ais_hybrid&w=740" width="40" alt="X"/>
+    <img src="https://img.freepik.com/free-vector/new-twitter-logo-x-icon-black-background_1017-45427.jpg?semt=ais_hybrid&w=740" title="KeikiMasamune" width="40" alt="X"/>
   </a>
   <a href="https://discord.com/users/595888512029687828/">
-    <img src="https://img.freepik.com/premium-vector/modern-badge-discord-icon_578229-169.jpg" width="40" alt="Discord"/>
+    <img src="https://img.freepik.com/premium-vector/modern-badge-discord-icon_578229-169.jpg" width="40" title="Masamune#2687" alt="Discord"/>
   </a>
 </p>
 
