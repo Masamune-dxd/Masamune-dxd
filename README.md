@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&fontAlignY=30&fontSize=60&strokeWidth=2&stroke=72d7f0&fontColor=729af0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&reversal=true&fontColor=A3B9D2&stroke=6F84A0&strokeWidth=2&fontAlignY=30"/>
 </div>
 
 <div align="center">
@@ -79,5 +79,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&fontAlignY=80&fontSize=60&strokeWidth=2&stroke=72d7f0&fontColor=729af0&sectio[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&reversal=true&fontColor=A3B9D2&stroke=6F84A0&strokeWidth=2&fontAlignY=80&section=footer">
 </div>
