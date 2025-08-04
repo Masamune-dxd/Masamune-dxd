@@ -19,6 +19,7 @@
     <td>
 
 <h1 align="center" style="font-size: 2.6em;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Take_ni_Suzume.svg" width="50" height="50"> Hi, I'm Masamune!</h1>
+<h1 align="center" style="font-size: 2.6em;"> こんにちは、政宗と申します。</h1>
 
 <p align="center" style="font-size: 1.4em;">
   ✨ Cosplay enthusiast&nbsp; | &nbsp;🎮 Gamer&nbsp; | &nbsp;👨‍💻 Aspiring developer&nbsp; | &nbsp;❄️ Eula Simp
