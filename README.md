@@ -20,7 +20,12 @@
   <tr>
     <td>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#1abc9c;">Masamune</span>!</h1>
+<!-- 
+  To ensure color visibility in markdown, use inline HTML and a vibrant, dark color.
+  Changed color from #1abc9c (light on white) to #007bff (Bootstrap blue).
+-->
+
+<h1 align="center">👋 Hi, I'm <span style="color:#007bff;"><b>Masamune</b></span>!</h1>
 
 <p align="center">
   <b>✨ Cosplay enthusiast | 🎮 Gamer | 👨‍💻 Aspiring developer | ❄️ Eula Simp </b> 
@@ -74,5 +79,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&fontAlignY=80&fontSize=60&strokeWidth=2&stroke=72d7f0&fontColor=729af0&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=M%20a%20s%20a%20m%20u%20n%20e&fontAlignY=80&fontSize=60&strokeWidth=2&stroke=72d7f0&fontColor=729af0&sectio[...]
 </div>
