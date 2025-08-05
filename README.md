@@ -79,6 +79,7 @@
   </a>
   <a href="https://discord.com/users/595888512029687828/">
     <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg" width="48" title="Masamune#2687" alt="Discord" style="margin: 0 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="48" title="Masamune#2687" alt="Discord" style="margin: 0 10px;"/>
   </a>
 </div>
 
